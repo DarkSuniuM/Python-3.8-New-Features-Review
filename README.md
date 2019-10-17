@@ -11,3 +11,9 @@ Release Date: October 14th, 2019.
 *  F-Strings for Self-Documenting
 *  Positional Arguments
 *  Syntax Warning
+
+
+## Metadata
+
+*  Video URL on YouTube: https://youtu.be/R5NJ7f72yB8
+*  The video is record in **Persian** Language
